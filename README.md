@@ -24,15 +24,15 @@ This project provides a web interface for browsing available pizzas and managing
 
 📂 Project Structure
 
-pizza-delivery/
-├── backend/
+pizza-delivery
+├── backend
 │   ├── server.js
-│   ├── routes/
-│   ├── models/
+│   ├── routes
+│   ├── models
 │   └── .env
-├── frontend/
-│   ├── src/
-│   ├── public/
+├── frontend
+│   ├── src
+│   ├── public
 │   ├── package.json
 │   └── index.html
 └── README.md
